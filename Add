@@ -1,0 +1,7 @@
+def add (a, b)
+	puts a + b
+end
+
+add(4, 6)
+add(22, 23)
+add(1000, 22)
